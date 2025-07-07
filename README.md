@@ -1,0 +1,2 @@
+# Breast-Cancer-Detection-from-features-of-breast-tissue-Images
+In this classification task, we aim to use logistic regression to build a Machine Leaning model that can accurately predict whether a tumor is malignant (Cancerous) or benign (non-cancerous) based on features from images. This helps demonstrate how machine learning can assist in medical diagnosis by learning patterns in real patient data.
